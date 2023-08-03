@@ -1,3 +1,3 @@
 # Medium Clone
 
-![Medium](/medium/bootstrap/mediım.gif)
+![Medium](medium/bootstrap/mediım.gif)
